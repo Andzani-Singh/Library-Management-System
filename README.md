@@ -87,6 +87,7 @@ LMS/
 ├── lib/                 # External libraries
 ├── pom.xml             # Maven configuration
 └── README.md           # Project documentation
+├── .gitignore           # Git ignore file
 ```
 
 ### Design Patterns Used
