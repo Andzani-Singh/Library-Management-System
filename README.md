@@ -1,10 +1,10 @@
 # Library Management System
 
-## 🎓 Final Year Project - Information Technology
+## 🎓 Final Year Student - Information Technology
 
-**Developer:** Final Year IT Student  
-**Institution:** [Your Institution Name]  
-**Academic Year:** 2024-2025
+**Developer:** Mavangwa Andzani Singh
+**Institution:** [Vaal University Of Technology]  
+**Academic Year:** 2024-2026
 
 ---
 
@@ -183,28 +183,18 @@ LMS/
 
 ---
 
-## 🤝 Acknowledgments
-
-This project was developed as part of the final year requirements for the Information Technology program. It demonstrates the practical application of software engineering concepts learned throughout the academic curriculum.
-
-### Special Thanks
-- Faculty members for guidance and mentorship
-- Library staff for requirement gathering and feedback
-- Peers for testing and suggestions
-
----
 
 ## 📄 License
 
-This project is developed for educational purposes as part of academic requirements.
+This project is developed for educational/skill purposes as part of academic requirements.
 
 ---
 
 ## 📞 Contact
 
 For questions or feedback about this project, please contact:
-- **Email:** [your-email@institution.edu]
-- **GitHub:** [your-github-profile]
+- **Email:** [andzanimavangwa88@gmail.com]
+- **GitHub:** [Andzani-Singh]
 
 ---
 
