@@ -5,8 +5,8 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
-    <artifactId>LMS</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>lms</artifactId>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     
     <properties>
@@ -125,4 +125,11 @@
             </plugin>
         </plugins>
     </build>
+   <distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub Andzani-Singh Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/Andzani-Singh/Library-Management-System</url>
+   </repository>
+</distributionManagement>
 </project>
