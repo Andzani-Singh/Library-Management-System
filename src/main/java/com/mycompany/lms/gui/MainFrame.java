@@ -589,7 +589,7 @@ public class MainFrame extends JFrame {
             "- Book management\n" +
             "- User management\n" +
             "- Book borrowing and returning\n\n" +
-            "Developed by: andza", 
+            "Developed by: Mavangwa Andzani Singh", 
             "About LMS", JOptionPane.INFORMATION_MESSAGE);
     }
 }
