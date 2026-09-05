@@ -2,7 +2,7 @@ package com.mycompany.lms.config;
 
 /**
  *
- * @author andza
+ * @author andzani
  */
 public class DatabaseConfig {
     // Using in-memory storage for now
